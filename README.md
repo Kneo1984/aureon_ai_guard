@@ -37,3 +37,12 @@ Enthält: Installation, Ethik, Technik.
 📧 [Kontakt: kneolekks@gmail.com](mailto:kneolekks@gmail.com)
 💼 [LinkedIn: Dennis Maier](https://www.linkedin.com/in/dennis-m-b6a6a6325)
 🔐 Dieses Projekt ist urheberrechtlich geschützt und darf nur über Lizenzkontakt genutzt werden.
+
+## 🔒 Zugriff & Lizenzbedingungen
+
+> 🔐 Der Zugriff auf das AUREON-Installationspaket ist **nur nach persönlicher Kontaktaufnahme möglich**.
+> Die Datei `AUREON_PACKAGE_FULL.zip` ist **aus Lizenzgründen nicht direkt öffentlich downloadbar**.
+> Bitte sende eine Anfrage an: [kneolekks@gmail.com](mailto:kneolekks@gmail.com)
+> Eine Lizenzvereinbarung und ggf. Zahlung via Ko-fi oder andere Absprache ist erforderlich.
+
+📦 Die Datei ist im Release sichtbar, aber **nicht direkt abrufbar.** Nur autorisierte Anfragen werden berücksichtigt.
